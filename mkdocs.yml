@@ -1,0 +1,71 @@
+site_name: Enterprise work
+site_url: http://localhost:8050
+dev_addr: localhost:8051
+
+repo_url: https://github.com/alexfzero
+edit_uri: ''
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+  logo: assets/logo.svg
+  favicon: images/favicon.ico
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/alexfzero
+
+markdown_extensions:
+  - def_list
+  - attr_list
+  - admonition
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.keys
+  - pymdownx.tilde
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.betterem
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
+plugins:
+  - search
+  - i18n:
+      docs_structure: folder
+      default_language: en
+      languages:
+        en:
+          name: English
+          build: true
+        ru:
+          name: Русский
+          build: true
+      nav_translations:
+        ru:
+          'Home': 'Главная'
+          'Goals and resources': 'Цели и ресурсы'
+          'Initial business processes': 'Начальные бизнесс процессы'
+          'Algorithmic representation': 'Алгоритмическое представление'
+          'Calculation tables': 'Таблицы расчетов'
+          'Database view': 'Представление базы данных'
+          'Getting started': 'Первые шаги'
+          'Available urls': 'Доступные урлы'
+          'Structure': 'Структура'
+
+nav:
+  - 'Home': 'index.md'
+  - 'Project Structure':
+    - 'Project':
+      - 'Goals and resources': 'project/goals_resources.md'
+      - 'Initial business processes': 'project/business_processes.md'
+      - 'Algorithmic representation': 'project/algorithmic.md'
+      - 'Calculation tables': 'project/calculation.md'
+      - 'Database view': 'project/database.md'
+    - 'Backend':
+      - 'Getting started': 'backend/getting_started.md'
+      - 'Available urls': 'backend/available_urls.md'
+      - 'Structure': 'backend/structure.md'

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+         <loc>http://localhost:8050/index.html</loc>
+         <lastmod>2022-12-19</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8050/en/index.html"/>
+         <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8050/ru/index.html"/>
+         
+    </url>
+    <url>
+         <loc>http://localhost:8050/backend/available_urls.html</loc>
+         <lastmod>2022-12-19</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8050/en/backend/available_urls.html"/>
+         <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8050/ru/backend/available_urls.html"/>
+         
+    </url>
+    <url>
+         <loc>http://localhost:8050/backend/getting_started.html</loc>
+         <lastmod>2022-12-19</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8050/en/backend/getting_started.html"/>
+         <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8050/ru/backend/getting_started.html"/>
+         
+    </url>
+    <url>
+         <loc>http://localhost:8050/backend/structure.html</loc>
+         <lastmod>2022-12-19</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8050/en/backend/structure.html"/>
+         <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8050/ru/backend/structure.html"/>
+         
+    </url>
+    <url>
+         <loc>http://localhost:8050/project/algorithmic.html</loc>
+         <lastmod>2022-12-19</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8050/en/project/algorithmic.html"/>
+         <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8050/ru/project/algorithmic.html"/>
+         
+    </url>
+    <url>
+         <loc>http://localhost:8050/project/business_processes.html</loc>
+         <lastmod>2022-12-19</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8050/en/project/business_processes.html"/>
+         <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8050/ru/project/business_processes.html"/>
+         
+    </url>
+    <url>
+         <loc>http://localhost:8050/project/calculation.html</loc>
+         <lastmod>2022-12-19</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8050/en/project/calculation.html"/>
+         <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8050/ru/project/calculation.html"/>
+         
+    </url>
+    <url>
+         <loc>http://localhost:8050/project/database.html</loc>
+         <lastmod>2022-12-19</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8050/en/project/database.html"/>
+         <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8050/ru/project/database.html"/>
+         
+    </url>
+    <url>
+         <loc>http://localhost:8050/project/goals_resources.html</loc>
+         <lastmod>2022-12-19</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8050/en/project/goals_resources.html"/>
+         <xhtml:link rel="alternate" hreflang="ru" href="http://localhost:8050/ru/project/goals_resources.html"/>
+         
+    </url>
+</urlset>
